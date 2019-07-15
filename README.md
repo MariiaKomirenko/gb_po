@@ -1,1 +1,1 @@
-# gb_po
+Home Tasks for GeekBrains "Product Manager" course
